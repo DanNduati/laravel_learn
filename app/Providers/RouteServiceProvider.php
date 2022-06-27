@@ -18,7 +18,7 @@ class RouteServiceProvider extends ServiceProvider
      * @var string
      */
     public const HOME = '/home';
-
+    public const DASHBOARD = 'public/index.php/dashboard';
     /**
      * The controller namespace for the application.
      *
